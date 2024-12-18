@@ -1,0 +1,21 @@
+{
+	"compilerOptions": {
+		"allowJs": true,
+		"checkJs": true,
+		"experimentalDecorators": true,
+		"lib": ["ESNext", "DOM", "DOM.Iterable"],
+		"module": "NodeNext",
+		"moduleResolution": "NodeNext",
+		"noEmit": true,
+		"noImplicitAny": true,
+		"resolveJsonModule": true,
+		"strict": true,
+		"target": "ESNext",
+	},
+
+	"include": [
+		"src/**/*.js",
+	],
+
+	"types": [],
+}
